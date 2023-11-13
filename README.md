@@ -5,6 +5,7 @@
 - Tener Python instalado
 
 ## 🔽 Pasos de instalación
+- Instalar el archivo de Python
 - Abrir CMD como administrador
 - Ejecutar balsamiqunlocked_win.py
 
